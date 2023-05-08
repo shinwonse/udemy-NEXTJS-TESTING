@@ -60,7 +60,8 @@
       {
         "printWidth": 80,
         "singleQuote": false,
-        "endOfLine": "auto"
+        "endOfLine": "auto",
+        "tabWidth": 2
       }
     ],
     "simple-import-sort/exports": "error",
